@@ -28,7 +28,7 @@ div {
     background-color: var(--background-card);
     width: 320px;
     height: auto;
-    margin: 200px;
+    margin: 0 auto;
     padding: 15px;
 }
 
